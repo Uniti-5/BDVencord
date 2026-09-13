@@ -22,7 +22,7 @@ BDVencord aims for 100% compatibility with BetterDiscord plugins. If you find an
 ## Building from source
 
 1. Make sure you have [git](https://git-scm.com/), [Node.js](https://nodejs.org/), and [pnpm](https://pnpm.io/)
-2. Clone this repository using git
+2. Clone this repository using git : clone git https://github.com/TheLazySquid/BDVencord.git
 3. cd into the cloned repo
 4. run `pnpm install`
 5. run `pnpm build`
